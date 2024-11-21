@@ -15,6 +15,7 @@ namespace TraversalCoreProje.Controllers
 
         public IActionResult Index()
         {
+            string a;
             return View();
         }
 
